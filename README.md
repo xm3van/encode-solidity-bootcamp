@@ -1,7 +1,9 @@
 # Homework Week 3 
 
 Contract information: 
+
 TOKENIZED_BALLOT_CONTRACT = "0x946FdaC26F183FF2180Fc4E187A926DFB6806300";
+
 ERC20_TOKEN_CONTRACT = '0xCA6D344B981B091F95E8c9C14bfbBeE30145EF7B';
 
 Before commencing the homework we outlined the following steps which have to be conducted: 
