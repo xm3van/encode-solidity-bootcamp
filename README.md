@@ -43,3 +43,5 @@ Transaction hash references
 - Partial vote 2 - Tx-hash:0x93258f9105c9db7b22cba8ac2f9c7cea7157e1619c478a9d341b9a4ba1f9747a
 6) See script InteractCastVote.ts
 
+
+Google doc ref.: https://docs.google.com/document/d/1O7hjTaRm76c75HYGXWqzhBdjdU_Gsda9rhsyryJdbrY/edit
