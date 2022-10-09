@@ -5,7 +5,7 @@ TOKENIZED_BALLOT_CONTRACT = "0x946FdaC26F183FF2180Fc4E187A926DFB6806300";
 ERC20_TOKEN_CONTRACT = '0xCA6D344B981B091F95E8c9C14bfbBeE30145EF7B';
 
 Before commencing the homework we outlined the following steps which have to be conducted: 
-# ===============================================
+===============================================
 During class we wrote the contracts: 
 1) Write deployment script to deploy ERC20votes.ts #DONE
 2) Write a deployment script for TokenizedBallot.ts
@@ -21,7 +21,7 @@ Once completed:
 7) Document the result: Write a report with each function execution and the transaction hash, if successful, or the revert reason, if failed
 8) Share your code in a github repo in the submission form
 
-# ===============================================
+===============================================
 
 Transaction hash references
 1) The deployment script DeployERC20Votes.ts does the following: 
