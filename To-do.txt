@@ -1,0 +1,14 @@
+During class we wrote the contracts: 
+1) Write deployment script to deploy ERC20votes.ts #DONE
+2) Write a deployment script for TokenizedBallot.ts
+    > Note: Sequence matter as you need the deployment address of the ERC20
+
+Once deployed write separate script that interact with the deployed contract to: 
+3) give voting tokens, 
+4) delegating voting power, 
+5) casting votes & checking vote power 
+6) querying results
+
+Once completed:
+7) Document the result: Write a report with each function execution and the transaction hash, if successful, or the revert reason, if failed
+8) Share your code in a github repo in the submission form
