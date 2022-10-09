@@ -21,7 +21,7 @@ Once completed:
 7) Document the result: Write a report with each function execution and the transaction hash, if successful, or the revert reason, if failed
 8) Share your code in a github repo in the submission form
 
-===============================================
+================================================
 
 Transaction hash references
 1) The deployment script DeployERC20Votes.ts does the following: 
